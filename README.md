@@ -84,8 +84,12 @@ Truth table:
 ![image](https://user-images.githubusercontent.com/118343610/226172225-e2a76710-e24d-4043-8d00-b616700bf1a3.png)
 
 Output:
-RTL
+### RTL:
 ![image](https://user-images.githubusercontent.com/118343610/226172332-f1479035-c015-4675-94bc-eba9236a6f01.png)
+
+### SIMULATION:
+
+![226114293-2f3da6be-3d89-4b58-9beb-2efb59bf3ba1](https://github.com/MavillaPranathi/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118343610/9ef5c928-d968-45f6-8083-616240c7cd52)
 
 
 Result:
